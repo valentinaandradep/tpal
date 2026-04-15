@@ -6,5 +6,7 @@ int main()
     printf("O X X\n");
     printf("X X X\n");
 
+    printf("Criado por Valentina Andrade de Pedro");
+    
     return 0;
 }
