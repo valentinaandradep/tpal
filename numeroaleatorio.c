@@ -20,5 +20,7 @@ int main(int argc, char *argv[])
 
     printf("O número aleatório é %d\n", resultado);
 
+    printf("Criado por Valentina Andrade de Pedro");
+
     return 0;
 }
